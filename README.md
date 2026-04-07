@@ -1,4 +1,4 @@
-# -Employee-Promotion-Analysis
+# Анализ повышения сотрудников
 Анализ факторов, влияющих на решения о повышении сотрудников, с использованием python, SQL и Power BI.
 
 Основная таблица: employee_promotion_prediction 
